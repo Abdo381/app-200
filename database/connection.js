@@ -20,18 +20,18 @@
 //   };
 var Connection = require('tedious').Connection;  
 var config = {  
-    server: 'SQL5105.site4now.net',  //update me
+    server: '',  //update me
     authentication: {
         type: 'default',
         options: {
-            userName: 'db_a7d93e_dba_admin', //update me
-            password: '123456789Aa'  //update me
+            userName: '', //update me
+            password: ''  //update me
         }
     },
     options: {
         // If you are on Microsoft Azure, you need encryption:
         encrypt: true,
-        database: 'db_a7d93e_dba',  //update me
+        database: '',  //update me
               trustServerCertificate: true,
 
     }
