@@ -1,9 +1,9 @@
 
 // const config = {
-//     user :'test',
-//     password :'123456789',
+//     user :'',
+//     password :'',
 //     server:'localhost',
-//     database:'db_a7d93e_dba',
+//     database:'',
 //     options: {
 //       encrypt: true, 
 //       trustServerCertificate: true,
